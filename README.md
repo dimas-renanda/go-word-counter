@@ -9,3 +9,5 @@ echo 'hello world' | go run main.go
 ```
 
 # updated
+
+<!-- last updated: 2026-05-26 -->
